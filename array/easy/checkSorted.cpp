@@ -7,7 +7,6 @@ bool checkSorted(int a[], int n) {
                 return false;
         }
     }
-
     return true;
 }
 
